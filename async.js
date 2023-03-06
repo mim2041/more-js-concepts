@@ -13,5 +13,5 @@ function doSomething(){
 
 // let num = 0;
 // const IntervalId = setInterval(()=>{
-//     console.log(num++);
+//     console.log(++num);
 // },1000);
